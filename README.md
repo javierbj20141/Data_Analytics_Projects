@@ -1,4 +1,4 @@
-# Analisis de datos con PostgreSQL
+# SQL business cases
 
 <p align="center">  <img src="SQL_image.png" width=300"
 
