@@ -1,4 +1,4 @@
-<p align="center">2  <img src="SQL_image.png" width="300"
+<p align="center">  <img src="SQL_image.png" width="300"
 
 Explicación de la realización del poyectode PostgreSQL:
 
