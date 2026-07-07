@@ -8,7 +8,7 @@
 
 
 
-Explicación de la realización del poyectode PostgreSQL:
+**Explicación de la realización del poyectode PostgreSQL:**
 
 Antes de emepezar con el proyecto, visualizé todo el contenido relativo a SQL de la plataforma, y asistí a clases en directo. Toda esta práctica se realizó con la BBDD chinook. Tuve que enfrentarme al siguiente problema:
 
