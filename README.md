@@ -7,9 +7,9 @@
 
 **Explicación de la realización del poyectode PostgreSQL:**
 
-•	PostgreSQL
-•	SQL
-•	DBeaver
+- PostgreSQL
+- SQL
+- DBeaver
 
 **Explicación de la realización del poyectode PostgreSQL:**
 
