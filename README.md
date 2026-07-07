@@ -1,4 +1,4 @@
-<p align="center">2  <img src="SQL_image.png" width=150"
+<p align="center">2  <img src="SQL_image.png" width="150"
 ![Dashboard SQL](SQL_image.png)
 
 Archivo READ.me de Javier Bartolomé, alumno de la especialización de DATA ANALYTICS v3.
