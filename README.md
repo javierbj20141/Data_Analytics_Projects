@@ -1,4 +1,4 @@
-<p align="center">  <img src="SQL_image.png" width="300"
+<img src="SQL_image.png" width="300"
 
 
 
