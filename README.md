@@ -12,10 +12,17 @@
 
 **Objetivo del proyecto (formación):**
 
-El objetivo principal era familiarizarme y prácticar con la realización de consultas de mayor y menor complejidad para ganar fluidez con la herramienta, y enfrentarme a diferentes situaciones y casos. En total, he realizado la solución de 64 queries.
+El objetivo principal fue familiarizarme y practicar con la realización de consultas SQL de diferente complejidad para ganar fluidez con la herramienta y enfrentarme a distintos escenarios de análisis de datos.
 
-Primero traté de entender la BBDD y las relaciones de las tablas. En cada Query, he tratado de llegar al resultado final, analizando los diferentes caminos posibles yasegurandome de que el resultado tuviera sentido. 
+Durante el proyecto se resolvieron un total de 64 consultas, abordando diferentes problemas y casos de negocio.
 
-Antes de hacer cada query, analizaba que se estaba pidiendo, y los diferentes camino que había para llegar al resultado, tratando de aplicar una mezcla entre encontrar el más optimo, y conocer las diferentes formas de llegar al mismo resultado, para entender mejor lo que estaba haciendo.
+**Metodología:**
 
-Un saludo, Javier Bartolomé
+En primer lugar, se analizó la estructura de la base de datos para comprender las relaciones existentes entre las diferentes tablas.Posteriormente, para cada consulta se evaluaron distintas alternativas de resolución, buscando un equilibrio entre la optimización de la consulta y el aprendizaje de diferentes enfoques y técnicas SQL. Antes de desarrollar cada query, definía el objetivo a resolver y analizaba las posibles estrategias para llegar al resultado, verificando posteriormente la coherencia y validez de los datos obtenidos.
+
+**Archivos en el repositorio:**
+
+- Diagrama
+- README
+- logo SQL
+- Script con preguntas y Queries resueltas
