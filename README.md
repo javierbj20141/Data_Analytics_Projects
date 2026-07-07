@@ -26,3 +26,5 @@ En primer lugar, se analizó la estructura de la base de datos para comprender l
 - README
 - logo SQL
 - Script con preguntas y Queries resueltas
+
+**Autor** : Javier Bartolomé Jalvo
