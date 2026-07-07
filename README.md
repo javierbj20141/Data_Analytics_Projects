@@ -1,5 +1,6 @@
 
 ![Dashboard SQL](SQL_image)
+
 Archivo READ.me de Javier Bartolomé, alumno de la especialización de DATA ANALYTICS v3.
 
 Explicación de la realización del poyectode PostgreSQL:
