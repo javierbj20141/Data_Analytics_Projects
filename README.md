@@ -1,5 +1,5 @@
 
-![Dashboard SQL](SQL_image)
+![Dashboard SQL](SQL_image.png)
 
 Archivo READ.me de Javier Bartolomé, alumno de la especialización de DATA ANALYTICS v3.
 
