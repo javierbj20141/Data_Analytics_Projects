@@ -1,11 +1,7 @@
-<p align="center">  <img src="SQL_image.png" width=150"
+<p align="center">  <img src="SQL_image.png" width=300"
 
 
 <br>
-
-
-
-
 
 
 **Explicación de la realización del poyectode PostgreSQL:**
